@@ -12,17 +12,17 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures 
 $ cd $HOME
-$ rm -rf py3-marshal 
-$ git https://github.com/BilalHaiderID/py3-marshal
+$ rm -rf PY3.1
+$ git clone https://github.com/MRJIBON/PY3.1
 ```
 #### ↦  Run Script
 ```
-$ cd py3-marshal  
+$ cd PY3.1
 $ git pull  
-$ python run.py  
+$ python PY3.1.py
 ```
 
-[**My Facebook**](https://facebook.com/SoryBro.IAm.Noob) </br>
-[**My GitHub**](https://github.com/BilalHaiderID) </br>
-[**My Whatsapp**](https://wa.me/+923440157745) </br>
+[**My Facebook**](https://www.facebook.com/Ajijul.Hasan.Jibon.Official75) </br>
+[**My GitHub**](https://github.com/MRJIBON ) </br>
+[**My Whatsapp**](https://wa.me/+8801996528575) </br>
 
