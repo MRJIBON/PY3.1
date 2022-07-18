@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5050&color=3DF73B&background=000000&height=70&lines=Welcome+To+Py3+Marshal+Encryption)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&multiline=true&lines=This+Is+JIBON+World+)](https://git.io/typing-svg)
+
 #### ↦  Install Script On Termux
 ```
 $ pkg update && upgrade  
